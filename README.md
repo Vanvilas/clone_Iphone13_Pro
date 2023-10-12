@@ -3,7 +3,13 @@
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-contato">Contato</a>
+  <a href="#-contato">Contato</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
   
 ![preview](https://github.com/Vanvilas/clone_Iphone13_Pro/blob/main/Captura%20da%20Web_19-9-2023_163327_.jpeg)
 
@@ -20,10 +26,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     - Javascript
     - Git e GitHub
 
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 ## ✉ Contato
 
-  
-  <a href = "https://www.linkedin.com/in/vanessa-vilas-boas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "https://www.linkedin.com/in/vanessa-vilas-boas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
   
 
   ---

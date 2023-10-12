@@ -9,7 +9,7 @@
 ## 💻 Projeto
 Projeto de uma landing page clone do Ihone 13 Pro, onde é possível clicar e escolher a cor do Iphone mudando a foto conforme a cor escolhida.
 
-_**Veja o resultado [clicando aqui]()**_
+_**Veja o resultado [clicando aqui](https://vanvilas.github.io/Clone_Iphone13_Pro)**_
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
